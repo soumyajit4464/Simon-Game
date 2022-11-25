@@ -1,2 +1,2 @@
 # Simon-Game
-Used HTML, CSS, JS [DOM]
+Used HTML, CSS, JS [jQuery]
